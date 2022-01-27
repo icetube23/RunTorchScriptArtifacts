@@ -1,2 +1,3 @@
 # RunTorchScriptArtifacts
-Necessary artifacts for RunTorchScript.jl
+
+This repository provides the compressed versions of the libtorch binaries needed for the `RunTorchScript` package.
